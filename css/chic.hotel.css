@@ -1,0 +1,142 @@
+body{
+  background:#0E2127;
+  /*background:#37383D;*/
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  color:#FFF;
+  font-size:20px;
+
+}
+
+.block{
+  padding:10px;
+  height:200px;
+  width:300px;
+  text-align:center;
+  line-height: 200px;
+  margin:10px;
+  float:left;
+  border:0px solid #FFF;  
+}
+.footer{
+  float:left;
+  background:#0E2127;
+  width:100%;
+  height:20px;
+  text-align:center;
+}
+.icon{
+  vertical-align:middle;
+  height:50px;
+  margin:15px;
+}
+.logos{
+  vertical-align:middle;
+  max-width:235px
+}
+.canard{
+  background:#0E2127;
+}
+.block-1{
+  width:250px;
+  height:500px;
+  float:left;
+  background:#2FADDD;
+  margin:10px;
+}
+.block-2{
+  width:500px;
+  height:500px;
+  float:left;
+  background:#4CA400;
+  margin:10px;
+}
+.block-3{
+  width:750px;
+  height:500px;
+  float:left;
+  background:#C31538;
+  margin:10px;
+}
+.block-4{
+  width:1000px;
+  height:500px;
+  float:left;
+  background:#CED2D5;
+  margin:10px;
+}
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.col-fixed {
+    /* custom width */
+    width:320px;
+}
+.col-min {
+    /* custom min width */
+    min-width:320px;
+}
+.col-max {
+    /* custom max width */
+    max-width:320px;
+}
+.logo-home{
+  height:200px;
+  width:300px;
+  text-align:center;
+  line-height: 200px;
+  margin:10px;
+  padding:0;
+  border:0px solid #FFF;  
+}
+.slide{
+  margin:10px;
+  padding:0;
+  border:0px solid #FFF;  
+}
+.col-md-8{
+  height:200px;
+  margin:10px;
+  padding:0;
+  border:0px solid #FFF;  
+  text-align:center;
+  line-height: 200px;
+}
+.logoSlide{
+  height:200px;
+  line-height:200px;
+  text-align:center;
+  width:300px;
+}
+
+.fa{
+   color:#FFF;
+}
+
+div.bourgeois{
+  background:#2DA5DA;
+}
+
+
+p.bourgeois{
+  color:#2DA5DA;
+}
